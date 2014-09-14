@@ -1,0 +1,7 @@
+package test;
+
+public interface ITest {
+	
+	public void test();
+
+}
